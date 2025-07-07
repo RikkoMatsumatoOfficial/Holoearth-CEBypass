@@ -11,7 +11,7 @@ namespace CEBypass {
 		SetFileAttributesA("C:\\CEBypass-FarewellHoloearth", FILE_ATTRIBUTE_READONLY | FILE_ATTRIBUTE_HIDDEN);
 		winreg::RegKey xxx{ HKEY_CURRENT_USER, L"SOFTWARE\\Cheat Engine", KEY_ALL_ACCESS };
 		if (!xxx) {
-			printf("Not Opened Cheat Engine in Current User!!!");
+			printf("Failed to Open RegKey in the Current User(Cheat Engine)!!!");
 			Sleep(4000);
 			exit(11);
 		}
