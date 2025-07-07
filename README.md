@@ -5,7 +5,6 @@ This is My First Bypass for Program Cheeto Engine... Soon will be Internal Versi
 
 ## Donations
 
-[DonationAlerts(For Russians and Others Countries with Commonwealth of Independent States)](https://donationalerts.com/r/rikkomatsumato)
-
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
 
+**BTC Wallet Address**: bc1qz987mqatjrhuurme49sleq75a80atysgyska9e
